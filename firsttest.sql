@@ -1,0 +1,1 @@
+select * from dbt_sflake.jaffle_shop.customers
